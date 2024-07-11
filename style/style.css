@@ -292,9 +292,6 @@ padding-bottom: 40px;
     width: 324px;
  height: 230px;
 }
-.img-h5:hover{
-
-}
 .p-h5{
   color: #000000;
 font-family: sans-serif;
@@ -356,6 +353,10 @@ text-align: justify;
 border: 1px outset;
 padding: 10px;
 background-color:#FEFCFC;
+}
+.p-h6:hover{
+    border: 2px solid #3090F8;
+    transition-duration: 500ms;
 }
 .border{
     display: flex;
