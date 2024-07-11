@@ -25,6 +25,7 @@ a:active{
 }
 a:hover{
     color: #3090F8;
+    transition-duration: 500ms;
 }
 .ul-navbar{
     /* border: 1px solid green; */
@@ -51,6 +52,7 @@ a:hover{
 }
 button:hover{
     opacity: 70%;
+    transition-duration: 500ms;
 }
 header{
     text-align: center;
@@ -65,12 +67,14 @@ h1{
 }
 h1:hover{
     color:#3090F8 ;
+    transition-duration: 500ms; 
 }
 .span-h1{
     color: #3090F8;
 }
 .span-h1:hover{
     color: #000000;
+    transition-duration: 500ms;
 }
 .p-header{
 font-family: sans-serif;
@@ -122,6 +126,7 @@ text-align: center;
 }
 h2:hover{
     color: #3090F8;
+    transition-duration: 500ms;
 }
 .p-h2{
 font-size: 16px;
@@ -171,6 +176,7 @@ h3{
 }
 h3:hover{
     color: #3090F8;
+    transition-duration: 500ms;
 }
 .section-h3{
   max-width: 1000px;
@@ -226,6 +232,7 @@ h4{
 }
 .li-3:hover{
     color: #3090F8;
+    transition-duration: 500ms;
 }
 .li-3{
 font-family: sans-serif;
@@ -267,6 +274,7 @@ text-align: center;
 }
 .h5:hover{
     color: #3090F8;
+    transition-duration: 500ms;
 }
 #p-h5{
 font-family: sans-serif;
@@ -281,7 +289,7 @@ padding-bottom: 40px;
  height: 230px;
 }
 .img-h5:hover{
-    transition: all;
+
 }
 .p-h5{
   color: #000000;
@@ -318,6 +326,7 @@ color: #000000;
 }
 .h6:hover{
     color: #3090F8;
+    transition-duration: 500ms;
 }
 #p-h6{
 font-family: sans-serif;
@@ -357,6 +366,7 @@ text-align: center;
 }
 .p-footer:hover{
     color: #3090F8;
+    transition-duration: 500ms;
 }
 .footer-button{
     background-color:  #3090F8;
@@ -387,6 +397,7 @@ padding-top: 50px;
 }
 .p-section-footer:hover{
     color: #3090F8;
+    transition-duration: 500ms;
 }
 .p2-section-footer{
 font-family: sans-serif;
