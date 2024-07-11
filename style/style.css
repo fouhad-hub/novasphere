@@ -355,7 +355,7 @@ padding: 10px;
 background-color:#FEFCFC;
 }
 .p-h6:hover{
-    border: 2px solid #3090F8;
+    border: 1px solid #3090F8;
     transition-duration: 500ms;
 }
 .border{
